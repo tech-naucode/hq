@@ -14,7 +14,7 @@ and adds the new rule to this file.
 
 | Trigger keyword / signal | Route to | Owner role |
 |---|---|---|
-| `IP`, `patent`, `license`, `methodology brokering`, `trade secret`, `know-how transfer` | `ipcom` | Principal |
+| `IP`, `patent`, `license`, `methodology brokering`, `trade secret`, `know-how transfer` | `ip-com` | Principal |
 | `Australia`, `AU`, `Oceania`, `NZ`, `New Zealand`, `engineering certainty campaign` | `gtm-au` | Principal (deals) / Managing (campaign ops) |
 | `consulting engagement`, `Propozel project`, `discovery sprint`, `LIFT solution pitch for client` | `consult` | Managing |
 | `LIFT method`, `Certainty Units`, `DSR`, `methodology version`, `lift solution pitch (artifact-level)` | `lift` | Principal |
@@ -67,7 +67,7 @@ inbound signal
 methodology pattern signal (from consult engagement)
   → knowledge (codify pattern)
   → lift (if it fits LIFT framework) OR method-<new> (if standalone)
-  → ipcom (assess commercial viability, define licensee profile)
+  → ip-com (assess commercial viability, define licensee profile)
   → compliance (license terms draft)
   → Principal sign
 ```

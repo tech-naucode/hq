@@ -24,7 +24,7 @@ companies report to one or both of them.
 
 - Proposal to enterprise (`engagement-*/processing/human-review/proposal-*.md`)
 - Methodology version release (`lift/versions/public-release/*` and `lift/versions/client-licensed/*`)
-- License terms for IP commercialization (`ipcom`)
+- License terms for IP commercialization (`ip-com`)
 - Public thought leadership (`mkt-branch` artifacts before publish)
 - Year-end strategic review
 - Anything tagged `strategic` in incoming routing

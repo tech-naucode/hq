@@ -6,7 +6,7 @@ name: NAUCode HQ
 description: >
   Orchestration layer for Principal + Managing Consultant. Houses cross-cutting
   governance: routing rules, quality gate registry, IP portfolio map, and human
-  operator scope. Does NOT execute operational work — that lives in ipcom,
+  operator scope. Does NOT execute operational work — that lives in ip-com,
   consult, gtm-au, lift, mkt-branch, sales-pipeline. HQ defines WHO decides WHAT.
 version: 0.1.0
 license: proprietary
@@ -34,7 +34,7 @@ metadata:
         - deals-below-20k
         - fellow-team-orchestration
   routes_to:
-    - ipcom
+    - ip-com
     - gtm-au
     - consult
     - lift
@@ -72,7 +72,7 @@ Everything here is a **decision-rule document** that operating companies read.
 
 ## How operating companies use HQ
 
-Each operating company (`ipcom`, `consult`, `gtm-au`, etc.) reads HQ's documents
+Each operating company (`ip-com`, `consult`, `gtm-au`, etc.) reads HQ's documents
 on every decision point:
 
 - Before sending anything to a client → check `quality-gates.md`

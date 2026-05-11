@@ -17,7 +17,7 @@ get deprecated, or shift role.
  ┌───┐         ┌──────────────────┐         ┌──────────────┐
  │hq │ ←reads─ │ OPERATING ENGINES│         │   SHARED     │
  │   │         │                  │  ──→    │INFRASTRUCTURE│
- └───┘         │ ipcom            │         │              │
+ └───┘         │ ip-com            │         │              │
    ▲           │ gtm-au           │         │ knowledge    │
    │           │ consult          │         │ brand        │
    └───reads── │ lift             │ ←reads─ │ compliance   │
@@ -41,7 +41,7 @@ get deprecated, or shift role.
 
 | Repo | Function | Status | Owner role | Notes |
 |---|---|---|---|---|
-| [`ipcom`](https://github.com/tech-naucode/ipcom) | IP commercialization | Live | Principal | Identifies, evaluates, packages, brokers IP deals |
+| [`ip-com`](https://github.com/tech-naucode/ip-com) | IP commercialization | Live | Principal | Identifies, evaluates, packages, brokers IP deals |
 | [`gtm-au`](https://github.com/tech-naucode/gtm-au) | Oceania GTM | Live | Principal (deals) / Managing (campaign) | Operationalizes OPT Oceania launch playbook |
 | [`consult`](https://github.com/tech-naucode/consult) | Consulting delivery | Live | Managing | Agent layer under Propozel platform |
 | [`lift`](https://github.com/tech-naucode/lift) | LIFT methodology IP asset | Draft | Principal | Developed under DSR framework |
