@@ -7,7 +7,7 @@ description: >
   Orchestration layer for Principal + Managing Consultant. Houses cross-cutting
   governance: routing rules, quality gate registry, IP portfolio map, and human
   operator scope. Does NOT execute operational work — that lives in ipcom,
-  consult, gtm-au, lift, mkt-brand, sales-pipeline. HQ defines WHO decides WHAT.
+  consult, gtm-au, lift, mkt-branch, sales-pipeline. HQ defines WHO decides WHAT.
 version: 0.1.0
 license: proprietary
 tags:
@@ -38,7 +38,7 @@ metadata:
     - gtm-au
     - consult
     - lift
-    - mkt-brand
+    - mkt-branch
     - sales-pipeline
     - knowledge
     - brand

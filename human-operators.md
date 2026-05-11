@@ -14,7 +14,7 @@ companies report to one or both of them.
 
 - Strategy (vision, market positioning, revenue model)
 - IP — methodology, brand thinking, content IP, licensing terms
-- Brand identity at the level of voice and positioning (operational brand work lives in `mkt-brand`)
+- Brand identity at the level of voice and positioning (operational brand work lives in `mkt-branch`)
 - Key accounts — relationships with enterprise C-level
 - Strategic deals (deal value ≥ AUD 50,000 or USD 35,000 equivalent)
 - Partnership decisions
@@ -25,7 +25,7 @@ companies report to one or both of them.
 - Proposal to enterprise (`engagement-*/processing/human-review/proposal-*.md`)
 - Methodology version release (`lift/versions/public-release/*` and `lift/versions/client-licensed/*`)
 - License terms for IP commercialization (`ipcom`)
-- Public thought leadership (`mkt-brand` artifacts before publish)
+- Public thought leadership (`mkt-branch` artifacts before publish)
 - Year-end strategic review
 - Anything tagged `strategic` in incoming routing
 

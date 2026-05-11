@@ -19,7 +19,7 @@ and adds the new rule to this file.
 | `consulting engagement`, `Propozel project`, `discovery sprint`, `LIFT solution pitch for client` | `consult` | Managing |
 | `LIFT method`, `Certainty Units`, `DSR`, `methodology version`, `lift solution pitch (artifact-level)` | `lift` | Principal |
 | `lead`, `inbound`, `RFP`, `proposal request`, `qualification` | `sales-pipeline` | Managing (qualify) / Principal (close) |
-| `blog`, `content`, `thought leadership`, `social`, `case study`, `webinar` | `mkt-brand` | Principal (voice) / Managing (cadence) |
+| `blog`, `content`, `thought leadership`, `social`, `case study`, `webinar` | `mkt-branch` | Principal (voice) / Managing (cadence) |
 | `lesson`, `retrospective`, `post-mortem`, `pattern`, `playbook`, `framework draft` | `knowledge` | Both |
 | `brand voice`, `lexicon update`, `do-not list`, `permitted-customers update`, `regulatory claim` | `brand` | Principal |
 | `MSA`, `NDA`, `IP assignment`, `contract template`, `compliance calendar`, `data protection policy` | `compliance` | Managing (drafting) / Principal (sign) |
@@ -77,10 +77,10 @@ methodology pattern signal (from consult engagement)
 ```
 insight from engagement or methodology release
   → knowledge (raw note)
-  → mkt-brand (draft content, run brand-guardian check)
+  → mkt-branch (draft content, run brand-guardian check)
   → brand (regulatory claims check, lexicon compliance)
   → Principal review
-  → publish via mkt-brand publisher gate
+  → publish via mkt-branch publisher gate
 ```
 
 ## Update protocol

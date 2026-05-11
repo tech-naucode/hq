@@ -60,12 +60,12 @@ non-circumvention clause holding.
 
 ### G-06 · Thought leadership publish
 
-**Trigger:** Any artifact in `mkt-brand/output/processing/publish-ready/`
+**Trigger:** Any artifact in `mkt-branch/output/processing/publish-ready/`
 **Owner:** Principal (voice/positioning) + Managing (publish window check)
 **SLA:** 48h
 **Required action:** Brand-guardian skill must report PASS first. Principal
 reads for strategic alignment. Managing confirms publish window and channel
-rules per `mkt-brand/agents/publisher/AGENTS.md`.
+rules per `mkt-branch/agents/publisher/AGENTS.md`.
 
 ### G-07 · Monthly review
 

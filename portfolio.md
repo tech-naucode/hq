@@ -21,7 +21,7 @@ get deprecated, or shift role.
    ▲           │ gtm-au           │         │ knowledge    │
    │           │ consult          │         │ brand        │
    └───reads── │ lift             │ ←reads─ │ compliance   │
-               │ mkt-brand        │         │              │
+               │ mkt-branch        │         │              │
                │ sales-pipeline   │         └──────────────┘
                └──────────────────┘
                         │
@@ -45,7 +45,7 @@ get deprecated, or shift role.
 | [`gtm-au`](https://github.com/tech-naucode/gtm-au) | Oceania GTM | Live | Principal (deals) / Managing (campaign) | Operationalizes OPT Oceania launch playbook |
 | [`consult`](https://github.com/tech-naucode/consult) | Consulting delivery | Live | Managing | Agent layer under Propozel platform |
 | [`lift`](https://github.com/tech-naucode/lift) | LIFT methodology IP asset | Draft | Principal | Developed under DSR framework |
-| [`mkt-brand`](https://github.com/tech-naucode/mkt-brand) | Marketing + thought leadership | Draft | Principal (voice) / Managing (cadence) | References `brand/` for kit |
+| [`mkt-branch`](https://github.com/tech-naucode/mkt-branch) | Marketing + thought leadership | Draft | Principal (voice) / Managing (cadence) | References `brand/` for kit |
 | [`sales-pipeline`](https://github.com/tech-naucode/sales-pipeline) | Central deal pipeline | Draft | Both | Lead intake → proposal → close |
 
 ## Shared infrastructure (1 instance, used by all)
